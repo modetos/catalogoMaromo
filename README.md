@@ -17,9 +17,9 @@ Escolhi esse tema por que é um assunto que eu me interesso e pareceu mais simpl
 
 ## Como funciona
 
-Os jogos ficam em um vetor de ponteiros (`Jogo *vetor[MAX]`), com MAX = 100. Quando o programa abre, todas as posicoes apontam pra NULL. O malloc so e usado quando um jogo e cadastrado ou carregado do arquivo. No final o programa usa free em cada posicao que nao e NULL.
+Os jogos ficam em um vetor de ponteiros (`Jogo *vetor[MAX]`), com MAX = 100. Quando o programa abre, todas as posições apontam pra NULL. O malloc so e usado quando um jogo é cadastrado ou carregado do arquivo. No final o programa usa free em cada posição que não é NULL.
 
-Se o dados.txt nao existir o programa comeca vazio.
+Se o dados.txt não existir o programa começa vazio.
 
 Menu:
 
@@ -29,10 +29,10 @@ Menu:
 4. Relatorio (jogo com maior tempo jogado)
 5. Salvar e sair
 
-No dados.txt cada linha e um jogo, com os campos separados por `;`:
+No dados.txt cada linha é um jogo, com os campos separados por `;`:
 
 ```
 codigo;titulo;desenvolvedora;preco;horas
 ```
 
-Obs: nao usar `;` no titulo nem na desenvolvedora porque atrapalha a leitura do arquivo.
+Obs: não usar `;` no título nem na desenvolvedora porquê atrapalha a leitura do arquivo.
