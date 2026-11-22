@@ -1,7 +1,5 @@
 # Catalogo de Jogos Digitais
 
-## Dupla
-
 - Sabrina Aparecida Modesto
 - Turma: ADS Noturno
 
