@@ -171,7 +171,6 @@ void buscar(Jogo *vetor[]) {
 /* relatorio: jogo com maior tempo jogado */
 void relatorio(Jogo *vetor[]) {
     int i;
-    int contador = 0;
     int posMaior = -1;
     float maior = -1;
 
