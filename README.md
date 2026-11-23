@@ -1,11 +1,12 @@
 # Catalogo de Jogos Digitais
 
 - Sabrina Aparecida Modesto
+- Thales de Prado dos Santos
 - Turma: ADS Noturno
 
 ## Justificativa
 
-Escolhi esse tema por que é um assunto que eu me interesso e pareceu mais simples.
+Escolhemos esse tema por que é um assunto que nos interessamos e que pareceu mais simples.
 
 ## Arquivos
 
